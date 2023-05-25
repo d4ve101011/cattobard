@@ -1,5 +1,5 @@
 {
-	"name": "googlebard",
+	"name": "cattobard",
 	"version": "1.0.6",
 	"description": "A reverse engineered API for Google Bard chatbot",
 	"main": "dist/index.js",
